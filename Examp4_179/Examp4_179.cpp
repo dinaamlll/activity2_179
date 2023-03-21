@@ -17,12 +17,3 @@ int main()
 	int pilihan;
 
 	do {
-		cout << "\n\n===================" << endl;
-		cout << "=========MENU=========" << endl;
-		cout << "====================" << endl;
-		cout << "1. Luas Persegi " << endl;
-		cout << "2. Luas Lingkaran " << endl;
-		cout << "3. Luas Segitiga " << endl;
-		cout << "4. exit " << endl;
-		cout << "Pilihan (1/2/3/4): ";
-		cin >> pilihan;
